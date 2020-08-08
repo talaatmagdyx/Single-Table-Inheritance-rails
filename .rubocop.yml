@@ -1,0 +1,8 @@
+require:
+    - rubocop
+Style/FrozenStringLiteralComment:
+    EnforcedStyle: never
+Style/Documentation:
+    Enabled: false
+Layout/LineLength:
+    Max: 120
