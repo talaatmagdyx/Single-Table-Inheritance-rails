@@ -1,24 +1,9 @@
-# README
+A simple Rails 6 project showing Single Table Inheritance.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### How to start
+- generate db `rails db:create db:migrate db:seed`
+- run server `rails s`
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**Environment**
+- ruby version `ruby-2.7.0`
+- rails version `6.0.3'`
